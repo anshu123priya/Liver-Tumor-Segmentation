@@ -2,7 +2,6 @@ import random
 import sys
 import cv2
 import nibabel as nib
-#import pickle as cPickle
 import numpy as np
 import scipy.misc
 import numpy.random as rng
