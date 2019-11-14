@@ -1,3 +1,4 @@
+# this code is for the data that is generated from data_lits (1)
 import random
 from keras.layers.core import *
 import sys
@@ -28,7 +29,6 @@ from keras.preprocessing import image
 from keras import backend as K
 from keras.initializers import random_uniform, RandomNormal
 from sklearn.utils import shuffle
-# from sklearn.cross_validation import train_test_split
 from sklearn.metrics import mean_squared_error
 from collections import OrderedDict as od
 import tensorflow as tf
