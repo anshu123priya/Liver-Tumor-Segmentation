@@ -1,3 +1,4 @@
+# This network is used for the data that is generated from data_gen file
 import random
 from keras.layers.core import *
 import sys
