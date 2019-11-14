@@ -1,4 +1,4 @@
-# this code is for the data that is generated from data_lits (1)
+# this network is for the data that is generated from data_lits (1).py
 import random
 from keras.layers.core import *
 import sys
